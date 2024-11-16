@@ -36,7 +36,7 @@ body{
 }
 
 .com{
-    width: 170px;
+    width: 300px;
     height: 130px;
     background-color: black;
     border-radius: 5px;
@@ -68,8 +68,8 @@ body{
 }
 
 .Gitcom{
-    width: 170px;
-    height: 70px;
+    width: 300px;
+    height: 80px;
     background-color: black;
     border-radius: 5px;
     display: flex;
